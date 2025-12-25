@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Sour Grapes",
+  "base_artist": "LE SSERAFIM",
+  "createdAt": "2025-12-25T01:34:23.878431Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Sour Grapes",
+      "artist": "Screaming Females",
+      "has_synced": true,
+      "path": "select/01_Sour_Grapes_Screaming_Females.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Sour Grapes",
+      "artist": "7seconds",
+      "has_synced": false,
+      "path": "select/02_Sour_Grapes_7seconds.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Sour Grapes",
+      "artist": "7 Seconds",
+      "has_synced": false,
+      "path": "select/03_Sour_Grapes_7_Seconds.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Sour Grapes",
+      "artist": "Descendents",
+      "has_synced": true,
+      "path": "select/04_Sour_Grapes_Descendents.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Sour Grapes",
+      "artist": "Descendents",
+      "has_synced": false,
+      "path": "select/05_Sour_Grapes_Descendents.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Sour Grapes",
+      "artist": "$uicideBoy$ feat. Travis Barker",
+      "has_synced": true,
+      "path": "select/06_Sour_Grapes_$uicideBoy$_feat._Travis_Barker.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Sour Grapes",
+      "artist": "$uicideboy$ & Travis Barker",
+      "has_synced": true,
+      "path": "select/07_Sour_Grapes_$uicideboy$_&_Travis_Barker.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Tall Tales Taste Like Sour Grapes",
+      "artist": "Fair To Midland",
+      "has_synced": true,
+      "path": "select/08_Tall_Tales_Taste_Like_Sour_Grapes_Fair_To_Midland.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Sour Grapes",
+      "artist": "John Prine",
+      "has_synced": true,
+      "path": "select/09_Sour_Grapes_John_Prine.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Sour Grapes",
+      "artist": "Puscifer",
+      "has_synced": false,
+      "path": "select/10_Sour_Grapes_Puscifer.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Sour Grapes",
+      "artist": "billy woods feat. Elucid",
+      "has_synced": false,
+      "path": "select/11_Sour_Grapes_billy_woods_feat._Elucid.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Sour Grapes (feat. Elucid)",
+      "artist": "billy woods",
+      "has_synced": false,
+      "path": "select/12_Sour_Grapes_(feat._Elucid)_billy_woods.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Sour Grapes",
+      "artist": "LE SSERAFIM",
+      "has_synced": true,
+      "path": "select/13_Sour_Grapes_LE_SSERAFIM.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Sour Grapes",
+      "artist": "Billy Woods / Elucid",
+      "has_synced": false,
+      "path": "select/14_Sour_Grapes_Billy_Woods___Elucid.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Sour Grapes (Legends of the Mix)",
+      "artist": "Puscifer",
+      "has_synced": true,
+      "path": "select/15_Sour_Grapes_(Legends_of_the_Mix)_Puscifer.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Sour Grapes (Legend Of The Mix)",
+      "artist": "Puscifer",
+      "has_synced": true,
+      "path": "select/16_Sour_Grapes_(Legend_Of_The_Mix)_Puscifer.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Sour Grapes",
+      "artist": "Puscifer",
+      "has_synced": true,
+      "path": "select/17_Sour_Grapes_Puscifer.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Sour Grapes",
+      "artist": "LE SSERAFIM",
+      "has_synced": false,
+      "path": "select/pl_01_Sour_Grapes_LE_SSERAFIM.txt"
+    }
+  ]
+}
